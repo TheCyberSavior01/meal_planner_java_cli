@@ -1,0 +1,42 @@
+type: edu
+files:
+  - name: src/mealplanner/Main.java
+    visible: true
+    learner_created: false
+  - name: build.gradle
+    visible: true
+    learner_created: false
+  - name: test/MealPlannerTests.java
+    visible: false
+    learner_created: false
+  - name: src/mealplanner/Meal.java
+    visible: true
+    learner_created: true
+  - name: src/mealplanner/PlanInterface.java
+    visible: true
+    learner_created: true
+  - name: src/mealplanner/db/DatabaseConfig.java
+    visible: true
+    learner_created: true
+  - name: src/mealplanner/App.java
+    visible: true
+    learner_created: true
+  - name: src/mealplanner/db/DB.java
+    visible: true
+    learner_created: true
+  - name: src/mealplanner/Plan.java
+    visible: true
+    learner_created: true
+  - name: src/mealplanner/PlanSaver.java
+    visible: true
+    learner_created: true
+  - name: plan.txt
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/25576#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Fri, 03 May 2024 14:56:34 UTC"
+record: -1
